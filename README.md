@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I am Cris 👋
+
+With 15+ years of experience, I mastered PHP, JavaScript, and CSS "the hard way" by evolving alongside the web from its foundational roots to modern frameworks.
+
+---
 
 - 🌱 I’m currently learning Ruby
 <!--
