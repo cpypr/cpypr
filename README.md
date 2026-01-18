@@ -1,21 +1,13 @@
-## Hi there, I am Cris 👋
+# 👋 Hi there, I am Cris
 
-With 15+ years of experience, I mastered PHP, JavaScript, and CSS "the hard way" by evolving alongside the web from its foundational roots to modern frameworks.
+With 15+ years of experience, I learned PHP, JavaScript, and CSS "the hard way" by evolving alongside the web from its foundational roots to modern frameworks.
 
----
+While my career has been defined by these core technologies, I am currently expanding my toolkit by learning Ruby, a language whose elegant syntax and human-centric philosophy feel like a true homecoming. 
 
-- 🌱 I’m currently learning Ruby
-<!--
-**cpypr/cpypr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beyond the code, I believe that expertise is most valuable when it is shared. I find fulfillment in mentoring others, as teaching deepens my own understanding and helps us grow together.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what am I up to?
+
+- deep diving into the Ruby language
+- building my own space in Ruby on Rails
