@@ -4,12 +4,12 @@ Full-stack developer from The Netherlands with a passion for building clean, eff
 
 <details>
   <summary>
-    A little bit more about me
+    Read a little bit more about me
   </summary>
   
 ##  
   
-With 15+ years of experience, I learned PHP, JavaScript, and CSS "the hard way" by evolving alongside the web from its foundational roots to modern frameworks.
+With 25+ years of experience, I learned PHP, JavaScript, and CSS "the hard way" by evolving alongside the web from its foundational roots to modern frameworks.
 
 While my career has been defined by these core technologies, I am currently expanding my toolkit by learning Ruby, a language whose elegant syntax and human-centric philosophy feel like a true homecoming. 
 
