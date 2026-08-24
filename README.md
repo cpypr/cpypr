@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Cris
 
-Full-stack developer from The Netherlands with a passion for building clean, efficient web applications.
+Full-stack developer based in the Netherlands, focused on building reliable, maintainable web applications.
 
 <details>
   <summary>
